@@ -19,7 +19,8 @@
  * @author Andrii Karazhov (karazhov.andrey@gmail.com)
  * @date   Oct 11, 2015
  * @brief  Hu Invariants structure declaration.
- *         Structure represents Hu invariants in accordance with ...<link>
+ *         Structure represents Hu invariants in accordance with:
+ *         Ming-Kuei Hu, "Visual pattern recognition by moment invariants," in Information Theory, IRE Transactions on , vol.8, no.2, pp.179-187, February 1962, doi: 10.1109/TIT.1962.1057692
  */
 
 #ifndef __HUINVARIANTS_H_C6B81E4F_1E55_454B_838D_FA0F6E179D8B__
